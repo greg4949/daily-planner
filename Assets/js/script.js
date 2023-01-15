@@ -36,9 +36,7 @@ $(function () {
     var timeBlock = $(this).parent().attr('id');
     var descrip = $(this).parent().children('textarea').val();    
     
-    localStorage.setItem(timeBlock,descrip);
-
-  
+    localStorage.setItem(timeBlock,descrip);  
    
   })
 
