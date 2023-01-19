@@ -1,11 +1,11 @@
 # Weekly Challenge 05 Create a daily planner.
 
-![](./assets/images/daily-planner.jpg)
+![](./Assets/images/daily-planner.jpg)
 
 
 ## URL to Application
 
-
+https://greg4949.github.io/daily-planner/
 
 ## Description
 
